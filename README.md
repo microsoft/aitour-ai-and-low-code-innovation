@@ -1,6 +1,6 @@
 # Innovate with AI in low code: Power Platform
 
-![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK360%20Activate%20Your%20Data.png)
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK330InnovatwWithAI.png)
 
 ## Session Description
 
