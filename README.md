@@ -6,20 +6,13 @@
 
 Are you ready for your organization to step into the future of development with Copilot? Join this session to discover how to redefine productivity, improve efficiency, reduce cost and risk with AI-powered low-code tools in Power Platform.
 
-## Goals
-TODO: coming soon
-
-## Key audience takeaways
-TODO: coming soon
-
 ## Session Resources
-TODO: If you would like to link the user to further learning, please enter that here.
+You can find slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| BRK330 English-langugae PPT Slides | [Link](https://www.google.com/) | Presentation deck in English |
 
 ## Content Owners
-Coming soon
+Ben Walters, Senior Product Marketing Manager, Microsoft
 
