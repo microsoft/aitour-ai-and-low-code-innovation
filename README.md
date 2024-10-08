@@ -11,7 +11,7 @@ You can find slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK330 English-langugae PPT Slides | [Link](https://www.google.com/) | Presentation deck in English |
+| BRK330 English-language PPT Slides | [Link](https://aka.ms/AAslmhn/) | Presentation deck in English |
 
 ## Content Owners
 Ben Walters, Senior Product Marketing Manager, Microsoft
