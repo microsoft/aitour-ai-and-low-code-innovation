@@ -7,7 +7,7 @@
 Are you ready for your organization to step into the future of development with Copilot? Join this session to discover how to redefine productivity, improve efficiency, reduce cost and risk with AI-powered low-code tools in Power Platform.
 
 ## Session Resources
-You can find slides of the presentation here and many other resources!
+Find slides of the AI Tour presentation and much more!
 
 | Resources          | Links                             | 
 |:-------------------|:----------------------------------|
